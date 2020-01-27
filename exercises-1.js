@@ -3,6 +3,6 @@ function findsum(a,b) {
     
 }
 
-findsum (4, 5)
 
-console.log (findsum)
+
+console.log(findsum(4,3))
